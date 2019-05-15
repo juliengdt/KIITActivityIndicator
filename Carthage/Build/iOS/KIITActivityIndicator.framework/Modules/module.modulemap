@@ -1,0 +1,11 @@
+framework module KIITActivityIndicator {
+  umbrella header "KIITActivityIndicator.h"
+
+  export *
+  module * { export * }
+}
+
+module KIITActivityIndicator.Swift {
+    header "KIITActivityIndicator-Swift.h"
+    requires objc
+}

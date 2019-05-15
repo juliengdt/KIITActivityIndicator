@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2d6c26bbdb201d5db40db811777b41d21f137c1d",
+  "iOS" : [
+    {
+      "name" : "KIITActivityIndicator",
+      "hash" : "ed305f366f3ec33cda07bdfe8e355d47c57de813ac760c93d9f6f73fd647b9ce",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+    }
+  ]
+}
