@@ -8,11 +8,11 @@
   "tvOS" : [
 
   ],
-  "commitish" : "2d6c26bbdb201d5db40db811777b41d21f137c1d",
+  "commitish" : "31824b82ea6b755af571187d430a7c34d844da73",
   "iOS" : [
     {
       "name" : "KIITActivityIndicator",
-      "hash" : "ed305f366f3ec33cda07bdfe8e355d47c57de813ac760c93d9f6f73fd647b9ce",
+      "hash" : "3d871ba0566827b0753ccbc5c8f8ebf2a07df2733e3755b77ccd042882180f38",
       "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
     }
   ]
